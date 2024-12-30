@@ -1,11 +1,12 @@
 <<<<<<< HEAD
-#test
 
-##hello
+# test
 
-###hey
-=======
-# hello-world
+## hello
+
+### hey
+
+### hello-world
 このリポジトリは GitHub Flow を実行するためのリポジトリです
 inuiです。勉強中です。
 >>>>>>> origin/main
